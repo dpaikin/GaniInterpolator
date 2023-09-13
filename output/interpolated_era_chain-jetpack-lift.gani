@@ -1,0 +1,309 @@
+GANI0FP4
+SPRITE   -21           light2.png     0     0   140   140 sprite
+SPRITE    -4 era_universal-gunflare.gif    46     3    13    11 era_universal-gunflare
+SPRITE    -3 era_universal-gunflare.gif    31     3    13    11 era_universal-gunflare
+SPRITE    -2 era_universal-gunflare.gif    17     2    11    13 era_universal-gunflare
+SPRITE    -1 era_universal-gunflare.gif     4     2    11    13 era_universal-gunflare
+SPRITE     0              SPRITES     0     0    24    12 shadow
+SPRITE     1           smoke3.png     0     0    32    32 smoke3
+SPRITE     2           smoke3.png     0     0    32    32 smoke3
+SPRITE     3           smoke3.png     0     0    32    32 smoke3
+SPRITE     4 era_bitzsam-m4a3.png    62    65     4     1 smoke3
+SPRITE     9                 BODY    32   330     8     8 lefthand
+SPRITE    10               SHIELD     0     0     6    18 shield up
+SPRITE    11               SHIELD     6     0     8    20 shield left
+SPRITE    12               SHIELD    14     0    16    20 shield down
+SPRITE    13               SHIELD    30     0     8    20 shield right
+SPRITE    14 era_mercy_ar15-fixed.gif    71    51     9    11 sprite
+SPRITE    15 era_mercy_ar15-fixed.gif    62    51     8    11 sprite
+SPRITE    19 era_xdarktax-m4a1s-ishedit     0     0    61    24 sprite
+SPRITE    20      era_jetpack.gif     5     7     6     8 strap_L-small
+SPRITE    21      era_jetpack.gif    51     7     6     8 strap_R-small
+SPRITE    22      era_jetpack.gif    15     0    13    20 vert_R
+SPRITE    23      era_jetpack.gif    34     0    13    20 vert_L
+SPRITE    24      era_jetpack.gif     8    26    21    18 horiz_L
+SPRITE    25      era_jetpack.gif    35    26    21    18 horiz_R
+SPRITE    26      era_jetpack.gif    64     0    18    19 back
+SPRITE    27      era_jetpack.gif   127     0    18    20 front_d
+SPRITE    28      era_jetpack.gif   127    26    18    19 front_up
+SPRITE    29      era_jetpack.gif   110     2     9    16 Fstrap_R
+SPRITE    30      era_jetpack.gif    91     2     9    16 Fstrap_L
+SPRITE    31      era_jetpack.gif    96    27     9     9 fire1
+SPRITE    32      era_jetpack.gif    73    26     8     9 fire2
+SPRITE    33      era_jetpack.gif    85    27     7     7 fire3
+SPRITE    34      era_jetpack.gif   109    26     8     9 fire4
+SPRITE    35      era_jetpack.gif    73    38     6     7 fire5
+SPRITE    36      era_jetpack.gif    85    39     7     5 fire6
+SPRITE    37      era_jetpack.gif    97    39     7     7 fire7
+SPRITE    38      era_jetpack.gif   111    38     6     7 fire8
+SPRITE    40                ATTR1     0     0    48    48 hat up
+SPRITE    41                ATTR1    48     0    48    48 hat left
+SPRITE    42                ATTR1    96     0    48    48 hat down
+SPRITE    43                ATTR1   144     0    48    48 hat right
+SPRITE    44                ATTR1     0    48    48    48 hat pull up
+SPRITE    45                ATTR1    48    48    48    48 hat pull left
+SPRITE    46                ATTR1    96    48    48    48 hat pull down
+SPRITE    47                ATTR1   144    48    48    48 hat pull right
+SPRITE    48                ATTR1     0    96    48    48 hat dead
+SPRITE   100                 HEAD     0     0    32    32 head up
+SPRITE   101                 HEAD     0    32    32    32 head left
+SPRITE   102                 HEAD     0    64    32    32 head down
+SPRITE   103                 HEAD     0    96    32    32 head right
+SPRITE   104                 HEAD     0   128    32    48 head pulling up
+SPRITE   105                 HEAD     0   176    32    32 head pulling left
+SPRITE   106                 HEAD     0   208    32    32 head pulling down
+SPRITE   107                 HEAD     0   240    32    32 head pulling right
+SPRITE   108                 HEAD     0   272    32    32 head pushing up
+SPRITE   109                 HEAD     0   304    32    32 head pushing left
+SPRITE   110                 HEAD     0   336    32    32 head pushing down
+SPRITE   111                 HEAD     0   368    32    32 head pushing right
+SPRITE   112                 HEAD     0   400    32    32 head hurted up
+SPRITE   113                 HEAD     0   432    32    32 head hurted left
+SPRITE   114                 HEAD     0   464    32    32 head hurted down
+SPRITE   115                 HEAD     0   496    32    32 head hurted right
+SPRITE   116                 HEAD     0   528    32    32 head dead
+SPRITE   200                 BODY     0     0    32    32 body up
+SPRITE   201                 BODY    32     0    32    32 body left
+SPRITE   202                 BODY    64     0    32    32 body down
+SPRITE   203                 BODY    96     0    32    32 body right
+SPRITE   204                 BODY     0    32    32    32 body walking1 up
+SPRITE   205                 BODY    32    32    32    32 body walking1 left
+SPRITE   206                 BODY    64    32    32    32 body walking1 down
+SPRITE   207                 BODY    96    32    32    32 body walking1 right
+SPRITE   208                 BODY     0    64    32    32 body walking2 up
+SPRITE   209                 BODY    32    64    32    32 body walking2 left
+SPRITE   210                 BODY    64    64    32    32 body walking2 down
+SPRITE   211                 BODY    96    64    32    32 body walking2 right
+SPRITE   212                 BODY     0    96    32    32 body walking3 up
+SPRITE   213                 BODY    32    96    32    32 body walking3 left
+SPRITE   214                 BODY    64    96    32    32 body walking3 down
+SPRITE   215                 BODY    96    96    32    32 body walking3 right
+SPRITE   216                 BODY     0   128    32    32 body walking4 up
+SPRITE   217                 BODY    32   128    32    32 body walking4 left
+SPRITE   218                 BODY    64   128    32    32 body walking4 down
+SPRITE   219                 BODY    96   128    32    32 body walking4 right
+SPRITE   220                 BODY     0   160    32    32 body walking5 up
+SPRITE   221                 BODY    32   160    32    32 body walking5 left
+SPRITE   222                 BODY    64   160    32    32 body walking5 down
+SPRITE   223                 BODY    96   160    32    32 body walking5 right
+SPRITE   224                 BODY     0   192    32    32 body sword1 up
+SPRITE   225                 BODY    32   192    32    32 body sword1 left
+SPRITE   226                 BODY    64   192    32    32 body sword1 down
+SPRITE   227                 BODY    96   192    32    32 body sword1 right
+SPRITE   228                 BODY     0   224    32    32 body sword2 up
+SPRITE   229                 BODY    32   224    32    32 body sword2 left
+SPRITE   230                 BODY    64   224    32    32 body sword2 down
+SPRITE   231                 BODY    96   224    32    32 body sword2 right
+SPRITE   232                 BODY     0   256    32    32 body sword3 up
+SPRITE   233                 BODY    32   256    32    32 body sword3 left
+SPRITE   234                 BODY    64   256    32    32 body sword3 down
+SPRITE   235                 BODY    96   256    32    32 body sword3 right
+SPRITE   236                 BODY     0   288    32    32 body sword4 up
+SPRITE   237                 BODY    32   288    32    32
+SPRITE   238                 BODY    64   288    32    32
+SPRITE   239                 BODY    96   288    32    32
+SPRITE   240                 BODY     0   320    32    32 body grabbing up
+SPRITE   241                 BODY    32   320    32    32 body grabbing left
+SPRITE   242                 BODY    64   320    32    32 body grabbing down
+SPRITE   243                 BODY    96   320    32    32 body grabbing right
+SPRITE   244                 BODY     0   352    32    32 body pushing2 up
+SPRITE   245                 BODY    32   352    32    32 body pushing2 left
+SPRITE   246                 BODY    64   352    32    32 body pushing2 down
+SPRITE   247                 BODY    96   352    32    32 body pushing2 right
+SPRITE   248                 BODY     0   384    32    32 body pushing3 up
+SPRITE   249                 BODY    32   384    32    32 body pushing3 left
+SPRITE   250                 BODY    64   384    32    32 body pushing3 down
+SPRITE   251                 BODY    96   384    32    32 body pushing3 right
+SPRITE   252                 BODY     0   416    32    32 body pulling1 up
+SPRITE   253                 BODY    32   416    32    32 body pulling left
+SPRITE   254                 BODY    64   416    32    32 body pulling down
+SPRITE   255                 BODY    96   416    32    32 body pulling right
+SPRITE   256                 BODY     0   448    32    32 body lifting up
+SPRITE   257                 BODY    32   448    32    32 body lifting left
+SPRITE   258                 BODY    64   448    32    32 body lifting down
+SPRITE   259                 BODY    96   448    32    32 body lifting right
+SPRITE   260                 BODY     0   480    32    32 body hands up
+SPRITE   261                 BODY    32   480    32    32 body hands left
+SPRITE   262                 BODY    64   480    32    32 body hands down
+SPRITE   263                 BODY    96   480    32    32 body hands right
+SPRITE   264                 BODY     0   512    32    32 body carrying1 up
+SPRITE   265                 BODY    32   512    32    32 body carrying1 left
+SPRITE   266                 BODY    64   512    32    32 body carrying1 down
+SPRITE   267                 BODY    96   512    32    32 body carrying1 right
+SPRITE   268                 BODY     0   544    32    32 body carrying2 up
+SPRITE   269                 BODY    32   544    32    32 body carrying2 left
+SPRITE   270                 BODY    64   544    32    32 body carrying2 down
+SPRITE   271                 BODY    96   544    32    32 body carrying2 right
+SPRITE   272                 BODY     0   576    32    32 body carrying3 up
+SPRITE   273                 BODY    32   576    32    32 body carrying3 left
+SPRITE   274                 BODY    64   576    32    32 body carrying3 down
+SPRITE   275                 BODY    96   576    32    32 body carrying3 right
+SPRITE   276                 BODY     0   608    32    32 body carrying4 up
+SPRITE   277                 BODY    32   608    32    32 body hurted up left
+SPRITE   278                 BODY    64   608    32    32 body carrying4 down
+SPRITE   279                 BODY    96   608    32    32 body hurted down
+SPRITE   280                 BODY     0   640    32    32 body carrying5 up
+SPRITE   281                 BODY    32   640    32    32 body hurted left
+SPRITE   282                 BODY    64   640    32    32 body carrying5 down
+SPRITE   283                 BODY    96   640    32    32 body hurted right
+SPRITE   284                 BODY     0   672    32    48 body pulling2 up
+SPRITE   285                 BODY    32   672    48    32 body dead
+SPRITE   330                 BODY    32   330     8     8 body pushing3 left
+SPRITE   331                 BODY    32   364    15     8 body pushing3 left
+SPRITE   332                 BODY   112   364    20     8 body pushing3 right
+SPRITE   333                 BODY   112   169    12    10 body walking5 right
+SPRITE   334                 BODY    82   160    13    14 body walking5 down
+SPRITE   335                 BODY    32   192    13    19 body sword1 left
+SPRITE   336                 BODY   110   106     8    13 body walking3 right
+SPRITE   337                 BODY    64    39    13    13 body walking1 down
+SPRITE   338                 BODY    45    38    12    12 body walking1 left
+SPRITE   339                 BODY    64    72    12    12 body walking2 down
+SPRITE   341                 BODY   115   198    10    13 body sword1 right
+SPRITE   342                 BODY    18   272    15    20 body sword3 up
+SPRITE   343                 BODY   117   658     8    32 body hurted right
+SPRITE   344                 BODY    34   658    10    10 body hurted left
+SPRITE   345     nsc-tt_blood.gif     0     0    48    30 body hurted left
+SPRITE   346                 BODY     0   480    20    16 body hands up
+SPRITE   347                 BODY    20   480    20    19 body hands up
+SPRITE   348                 BODY   120   330     8     8 hand right
+SPRITE   666                 BODY    40   494     8     8 handup
+SPRITE   667                 BODY    68   344     8     8 handdown
+
+COLOREFFECT    -21     1     1     0   0.2
+COLOREFFECT      1   0.2   0.2   0.2   0.9
+COLOREFFECT      2   0.2   0.2   0.2   0.4
+COLOREFFECT      3   0.2   0.2   0.2   0.2
+
+ZOOMEFFECT     -21   0.6
+
+SETBACKTO era_jetpack-fly
+DEFAULTATTR1 hat0.png
+DEFAULTBODY body.png
+DEFAULTHEAD head19.png
+
+ANI
+  0   12   34,   200   8   16,   26   15   23,   100   8   2,   40   0   -16
+  0   12   36,   201   12   16,   20   19   25,   22   26   21,   101   12   2,   41   0   -16
+  0   12   34,   202   8   16,   29   27   22,   30   12   22,   102   8   2,   42   0   -16
+  0   12   36,   203   4   16,   21   24   26,   23   9   22,   103   4   2,   43   0   -16
+PLAYSOUND era_chain-jetpack.wav 1.5 1.5
+WAIT 3
+
+  0   12   34,   200   8   15,   26   15   22,   100   8   1,   40   0   -17
+  0   12   36,   201   12   15,   20   19   24,   22   26   20,   101   12   1,   41   0   -17
+  0   12   34,   202   8   15,   29   27   21,   30   12   21,   102   8   1,   42   0   -17
+  0   12   36,   203   4   15,   21   24   26,   23   9   21,   103   4   1,   43   0   -17
+WAIT 3
+
+  0   12   34,   200   8   14,   26   15   21,   100   8   0,   40   0   -18,   36   17   38,   1   8   28
+  0   12   36,   31   28   34,   20   19   24,   22   26   19,   101   12   0,   41   0   -18,   3   19   27,   2   14   28
+  2   8   21,   202   8   14,   29   27   20,   30   12   20,   102   8   0,   42   0   -18,   3   2   26
+  0   12   36,   203   4   14,   21   24   26,   32   10   36,   103   4   0,   43   0   -18,   2   -3   29
+WAIT 3
+
+  0   12   34,   200   8   13,   26   15   20,   100   8   -1,   40   0   -19,   36   17   38,   36   24   38,   1   8   28
+  0   12   36,   31   28   34,   201   12   13,   20   19   23,   22   26   18,   101   12   -1,   41   0   -19,   3   19   27,   2   14   28
+  2   8   21,   0   12   34,   202   8   13,   29   27   19,   30   12   19,   102   8   -1,   42   0   -19,   3   2   26,   3   14   29
+  0   12   36,   203   4   13,   21   24   26,   32   10   36,   23   9   19,   103   4   -1,   43   0   -19,   2   -3   29
+WAIT 3
+
+  0   12   34,   200   8   13,   26   15   20,   100   8   -1,   40   0   -19,   36   17   38,   1   8   28
+  0   12   36,   201   12   13,   20   19   23,   22   26   18,   101   12   -1,   41   0   -19,   31   28   34,   3   19   27,   2   14   28
+     0   12   34,   202   8   13,   29   27   19,   30   12   19,   102   8   -1,   42   0   -19,2   8   21,   3   2   26
+  0   12   36,   203   4   13,   21   24   26,   23   9   19,   103   4   -1,   43   0   -19,   2   -4   29,   32   10   36
+WAIT 3
+
+  0   12   34,   200   8   14,   26   15   21,   100   8   0,   40   0   -18,   2   8   28
+  0   12   36,   201   12   14,   20   19   24,   22   26   19,   101   12   0,   41   0   -18
+     0   12   34,   202   8   14,   29   27   20,   30   12   20,   102   8   0,   42   0   -18,1   8   23
+  0   12   36,   203   4   14,   21   24   27,   23   9   20,   103   4   0,   43   0   -18,   2   -5   28
+WAIT 3
+
+  0   12   34,   200   8   14,   26   15   21,   100   8   0,   40   0   -18,   2   8   28
+  0   12   36,   201   12   14,   20   19   24,   22   26   19,   101   12   0,   41   0   -18
+  1   8   23,   0   12   34,   202   8   14,   29   27   20,   30   12   20,   102   8   0,   42   0   -18
+  0   12   36,   203   4   14,   21   24   27,   23   9   20,   103   4   0,   43   0   -18,   2   -6   28
+
+  0   12   34,   200   8   14,   26   15   21,   100   8   0,   40   0   -18,   2   8   28
+  0   12   36,   201   12   14,   20   19   24,   22   26   19,   101   12   0,   41   0   -18
+  1   12   25,   0   12   34,   202   8   14,   29   27   20,   30   12   20,   102   8   0,   42   0   -18
+  0   12   36,   203   4   14,   21   24   27,   23   9   20,   103   4   0,   43   0   -18,   2   -6   28
+
+  0   12   34,   200   8   13,   26   15   20,   100   8   -1,   40   0   -19,   36   17   38,   1   7   29
+  0   12   36,   31   28   34,   20   19   23,   22   26   18,   101   12   -1,   41   0   -19,   2   22   26,   1   14   30
+  1   15   26,   0   12   34,   202   8   13,   29   27   19,   30   12   19,   102   8   -1,   42   0   -19
+  0   12   36,   203   4   13,   21   24   26,   32   10   36,   103   4   -1,   43   0   -19,   1   -5   28
+
+  0   12   34,   200   8   13,   26   15   20,   100   8   -1,   40   0   -19,   36   17   38,   36   24   38,   1   7   29
+  0   12   36,   31   28   34,   201   12   13,   20   19   23,   22   26   18,   101   12   -1,   41   0   -19,   2   22   26,   1   14   30
+  1   19   28,   0   12   34,   202   8   13,   29   27   19,   30   12   19,   102   8   -1,   42   0   -19,   1   4   25
+  0   12   36,   203   4   13,   21   24   26,   32   10   36,   23   9   19,   103   4   -1,   43   0   -19,   1   -5   28
+
+  0   12   34,   200   8   13,   26   15   20,   100   8   -1,   40   0   -19,   36   17   38,   1   7   29
+  0   12   36,   201   12   13,   20   19   23,   22   26   18,   101   12   -1,   41   0   -19,   31   28   34,   2   22   26,   1   14   30
+     0   12   34,   202   8   13,   29   27   19,   30   12   19,   102   8   -1,   42   0   -19,1   19   28
+  0   12   36,   203   4   13,   21   24   26,   23   9   19,   103   4   -1,   43   0   -19,   32   10   36,   1   -5   28
+
+  0   12   34,   200   8   14,   26   15   21,   100   8   0,   40   0   -18,   2   10   29,   3   2   37
+  0   12   36,   201   12   14,   20   19   24,   22   26   19,   101   12   0,   41   0   -18
+     0   12   34,   202   8   14,   29   27   20,   30   12   20,   102   8   0,   42   0   -18,3   18   30,   2   4   28
+  0   12   36,   203   4   14,   21   24   27,   23   9   20,   103   4   0,   3   -1   27
+
+  0   12   34,   200   8   14,   26   15   21,   100   8   0,   40   0   -18,   2   10   29,   3   2   37
+  0   12   36,   201   12   14,   20   19   24,   22   26   19,   101   12   0,   41   0   -18
+  3   18   30,   0   12   34,   202   8   14,   29   27   20,   30   12   20,   102   8   0,   42   0   -18,   2   4   28
+  0   12   36,   203   4   14,   21   24   27,   23   9   20,   103   4   0,   43   0   -18,   3   -1   27
+
+  0   12   34,   200   8   14,   26   15   21,   100   8   0,   40   0   -18,   2   10   29,   3   2   37
+  0   12   36,   201   12   14,   20   19   24,   22   26   19,   101   12   0,   41   0   -18
+     0   12   34,   202   8   14,   29   27   20,   30   12   20,   102   8   0,   42   0   -18,3   18   30,   2   4   28
+  0   12   36,   203   4   14,   21   24   27,   23   9   20,   103   4   0,   43   0   -18,   3   -1   27
+
+  0   12   34,   200   8   13,   26   15   20,   100   8   -1,   40   0   -19,   36   17   38,   1   4   28
+  0   12   36,   31   28   34,   20   19   23,   22   26   18,   101   12   -1,   41   0   -19,   2   15   28,   3   30   26
+     0   12   34,   202   8   13,   29   27   19,   30   12   19,   102   8   -1,   42   0   -19,1   0   29
+  0   12   36,   203   4   13,   21   24   26,   32   10   36,   103   4   -1,   43   0   -19,   1   -5   30,   2   3   35
+
+  0   12   34,   200   8   13,   26   15   20,   100   8   -1,   40   0   -19,   36   17   38,   36   24   38,   1   4   28,   1   11   34
+  0   12   36,   31   28   34,   201   12   13,   20   19   23,   22   26   18,   101   12   -1,   41   0   -19,   2   15   28,   3   30   26,   2   24   25
+  1   0   29,   0   12   34,   202   8   13,   29   27   19,   30   12   19,   102   8   -1,   42   0   -19,   1   11   25
+  0   12   36,   203   4   13,   21   24   26,   32   10   36,   23   9   19,   103   4   -1,   43   0   -19,   1   -5   30,   2   3   35
+WAIT 3
+
+  0   12   34,   200   8   12,   26   15   19,   100   8   -2,   40   0   -20,   36   17   37,   36   17   37,   1   6   27,   1   6   27
+  0   12   36,   31   28   33,   201   12   12,   20   19   22,   22   26   17,   101   12   -2,   41   0   -20,   3   23   27,   2   15   28
+  1   5   28,   0   12   34,   202   8   12,   29   27   18,   30   12   18,   102   8   -2,   42   0   -20,   1   5   28
+  0   12   36,   203   4   12,   21   24   25,   32   10   35,   23   9   18,   103   4   -2,   43   0   -20,   1   -6   28,   2   1   35
+WAIT 3
+
+  0   12   34,   200   8   10,   26   15   17,   100   8   -4,   40   0   -22,   36   17   35,   36   17   35,   1   7   25,   2   4   32,   3   17   37
+  0   12   36,   31   28   31,   201   12   10,   20   19   20,   22   26   15,   101   12   -4,   41   0   -22,   3   16   29,   1   20   21
+  1   11   27,   0   12   34,   202   8   10,   29   27   16,   30   12   16,   102   8   -4,   42   0   -22,   1   11   27
+  0   12   36,   203   4   10,   21   24   23,   32   10   33,   23   9   16,   103   4   -4,   43   0   -22,   1   -6   27,   2   -1   34
+WAIT 3
+
+  0   12   34,   200   8   9,   26   15   16,   100   8   -5,   40   0   -23,   36   17   34,   36   24   34,   1   9   24,   2   4   32,   3   17   37
+  0   12   36,   31   28   30,   201   12   9,   20   19   19,   22   26   14,   101   12   -5,   41   0   -23,   1   20   21,   3   9   30,   3   38   31
+  1   16   26,   0   12   34,   202   8   9,   29   27   15,   30   12   15,   102   8   -5,   42   0   -23,   1   4   22
+  0   12   36,   203   4   9,   21   24   22,   32   10   32,   23   9   15,   103   4   -5,   43   0   -23,   1   -7   25,   2   -3   34
+WAIT 3
+
+  0   12   34,   200   8   6,   26   15   13,   100   8   -8,   40   0   -26,   36   17   31,   36   17   31,   1   8   21,   2   5   32,   3   17   37
+  0   12   36,   31   28   27,   201   12   6,   20   19   16,   22   26   11,   101   12   -8,   41   0   -26,   1   22   18,   3   9   30
+  1   13   22,   0   12   34,   202   8   6,   29   27   12,   30   12   12,   102   8   -8,   42   0   -26,   1   13   22
+  0   12   36,   203   4   6,   21   24   19,   32   10   29,   23   9   12,   103   4   -8,   43   0   -26,   1   -7   23,   2   -3   33
+WAIT 3
+
+  0   12   34,   200   8   4,   26   15   11,   100   8   -10,   40   0   -28,   36   17   29,   36   17   29,   1   8   18,   2   5   33
+  0   12   36,   31   28   25,   201   12   4,   20   19   14,   22   26   9,   101   12   -10,   41   0   -28,   1   24   15
+  1   11   18,   0   12   34,   202   8   4,   29   27   10,   30   12   10,   102   8   -10,   42   0   -28,   1   11   18,   3   17   25
+  0   12   36,   203   4   4,   21   24   17,   32   10   27,   23   9   10,   103   4   -10,   43   0   -28,   1   -7   21,   2   -4   32,   3   1   35
+WAIT 3
+
+  0   12   34,   200   8   1,   26   15   8,   100   8   -13,   40   0   -31,   36   17   26,   36   24   26,   1   7   15,   1   9   24,   2   6   33
+  0   12   36,   31   28   22,   201   12   1,   20   19   11,   22   26   6,   101   12   -13,   41   0   -31,   1   26   12,   1   14   20
+  0   12   34,   202   8   1,   29   27   7,   30   12   7,   102   8   -13,   42   0   -31,   1   8   14,   1   -4   21,   3   17   25,   3   10   33
+  0   12   36,   203   4   1,   21   24   14,   32   10   24,   23   9   7,   103   4   -13,   43   0   -31,   1   -7   19,   2   -4   31,   3   1   35
+WAIT 3
+
+ANIEND

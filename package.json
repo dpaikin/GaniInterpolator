@@ -1,0 +1,19 @@
+{
+  "name": "gani-interpolate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsc && node ./build/index"
+  },
+  "author": "Pluto",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "@types/readline-sync": "^1.4.4",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

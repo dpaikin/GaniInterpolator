@@ -1,0 +1,4 @@
+- Make second generated frame use different sprites of end frame instead of start (DONE)
+- Handle frame generation of end -> start frames for repeating ganis (DONE)
+- Integrate sounds (DONE)
+- Fix draw order of sprites (DONE)
